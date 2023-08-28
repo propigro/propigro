@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Durbek Kholdarov
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Pyton (Telegram bot and Django)
